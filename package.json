@@ -1,0 +1,28 @@
+{
+    "name": "itsrbl",
+    "publisher": "itsrbl",
+    "displayName": "Personal Light",
+    "description": "Light Theme with rainbow color text",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "icon": "logo/logo.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Personal light",
+                "uiTheme": "vs",
+                "path": "./themes/Personal light-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itsrbl/vscode-wordcount.git"
+      },
+      "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md"
+}
