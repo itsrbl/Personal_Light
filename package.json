@@ -1,9 +1,9 @@
 {
-    "name": "personal-light",
+    "name": "itsrbl",
     "publisher": "itsrbl",
     "displayName": "Personal Light",
     "description": "Light Theme with rainbow color text",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.62.0"
     },
